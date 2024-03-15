@@ -1,18 +1,23 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
+using SoulsScribblesAndSounds.Models;
 
-namespace SoulsScribblesAndSounds.Pages;
-
-public class IndexModel : PageModel
+namespace SoulsScribblesAndSounds.Pages.ListBlogs
 {
-    private readonly ILogger<IndexModel> _logger;
-
-    public IndexModel(ILogger<IndexModel> logger)
+    public class ListBlogsModel : PageModel
     {
-        _logger = logger;
-    }
+        private readonly BlogDbContext _db;
 
-    public void OnGet()
-    {
+        public ListBlogsModel(BlogDbContext db)
+        {
+            _db = db;
+        }
+
+        public IList<BlogPost> BlogPosts { get; set; } = new List<BlogPost>();
+
+        public async Task OnGetAsync()
+        {
+            BlogPosts = await _db.BlogPosts.ToListAsync();
+        }
     }
 }

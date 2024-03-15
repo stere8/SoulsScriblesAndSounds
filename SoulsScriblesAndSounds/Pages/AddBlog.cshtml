@@ -20,23 +20,29 @@
     <h2>Add a New Blog Post</h2>
     <form method="post">
         <div class="form-group">
-            <label asp-for="BlogPost.Title"></label>
-            <input asp-for="BlogPost.Title" class="form-control"/>
-            <span asp-validation-for="BlogPost.Title" class="text-danger"></span>
+            <label asp-for="blogPost.Title"></label>
+            <input asp-for="blogPost.Title" class="form-control"/>
+            <span asp-validation-for="blogPost.Title" class="text-danger"></span>
         </div>
         <div class="form-group">
-            <label asp-for="BlogPost.Content"></label>
-            <textarea asp-for="BlogPost.Content" class="form-control" rows="5"></textarea>
-            <span asp-validation-for="BlogPost.Content" class="text-danger"></span>
+            <label asp-for="blogPost.Content"></label>
+            <textarea asp-for="blogPost.Content" class="form-control" rows="5"></textarea>
+            <span asp-validation-for="blogPost.Content" class="text-danger"></span>
         </div>
 
         <div class="form-group">
-            <label asp-for="BlogPost.MusicUrl">Choose music</label>
-            <input asp-for="BlogPost.MusicUrl" class="form-control"/>
-@*             <span asp-validation-for="BlogPost.MusicUrl" class="text-danger"></span>
+            <label asp-for="blogPost.MusicUrl">Choose music</label>
+            <input asp-for="blogPost.MusicUrl" class="form-control"/>
+            @*             <span asp-validation-for="blogPost.MusicUrl" class="text-danger"></span>
  *@        </div>
         
-       @*  <a class="btn btn-success" asp-controller="Spotify" asp-action="Login">Login with Spotify</a>
+        <div class="form-group">
+            <label asp-for="blogPost.PictureUrl">Choose music</label>
+            <input asp-for="blogPost.PictureUrl" class="form-control"/>
+            @*             <span asp-validation-for="blogPost.MusicUrl" class="text-danger"></span>
+ *@        </div>
+        
+        @*  <a class="btn btn-success" asp-controller="Spotify" asp-action="Login">Login with Spotify</a>
  *@
 
         <button type="submit" class="btn btn-primary">Save</button>

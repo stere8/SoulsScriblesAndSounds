@@ -1,54 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\",
+  "WorkspaceRootPath": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\models\\blogposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\models\\blogposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\listblogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\listblogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\controllers\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\controllers\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\controllers\\addblogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|solutionrelative:multilingualmusicblogpost\\controllers\\addblogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|solutionrelative:multilingualmusicblogpost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\models\\blogposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\models\\blogposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|solutionrelative:multilingualmusicblogpost\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\models\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\models\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\pages\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\listblogs.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\listblogs.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\soulsscriblesandsounds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj|solutionrelative:multilingualmusicblogpost\\soulsscriblesandsounds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|c:\\users\\twizo\\riderprojects\\soulsscriblesandsounds\\soulsscriblesandsounds\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F41DCD-937B-4FA5-BEBA-D8F232007D91}|SoulsScriblesAndSounds\\SoulsScriblesAndSounds.csproj|solutionrelative:soulsscriblesandsounds\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\pages\\listblogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\pages\\listblogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|c:\\users\\twizo\\riderprojects\\multilingualmusicblogpost\\multilingualmusicblogpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38EC0A4-8545-42C6-91CC-7C9538A39127}|MultilingualMusicBlogPost\\MultilingualMusicBlogPost.csproj|solutionrelative:multilingualmusicblogpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,6 +85,18 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:20:41.032Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
@@ -71,158 +107,241 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddBlogController.cs",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:24:53.761Z",
-              "EditorCaption": ""
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwEYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:17:17.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Index.cshtml",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T12:20:41.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddBlog.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Title": "BlogPosts.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Models\\BlogPosts.cs",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Models\\BlogPosts.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Models\\BlogPosts.cs",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Models\\BlogPosts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:19:13.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:16:46.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-15T12:15:24.055Z",
+              "DocumentIndex": 1,
+              "Title": "AddBlog.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml.cs",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml.cs",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\AddBlog.cshtml.cs",
+              "ViewState": "AQIAABQAAACA//////8PwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:11:14.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AddBlog.cshtml",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
-              "ViewState": "AQIAACcAAADAmJmZmZkuwDgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T12:07:17.826Z",
-              "EditorCaption": ""
+              "Title": "ListBlogs.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml.cs",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml.cs",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml.cs",
+              "ViewState": "AQIAAAcAAABgMzMzM7MwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:11:03.069Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlogPosts.cs",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:06:19.626Z",
+              "Title": "ListBlogs.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\ListBlogs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:11:00.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpotifyController.cs",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Program.cs",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Program.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Program.cs",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:07:02.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:02:48.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SoulsScriblesAndSounds.csproj",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-15T12:09:07.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListBlogs.cshtml",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T12:07:15.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T12:15:05.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:09:17.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAwAAADAZWZmZmYUwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T12:15:10.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:08:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Models\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "SoulsScriblesAndSounds\\Models\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\SoulsScriblesAndSounds\\SoulsScriblesAndSounds\\Models\\BlogDbContext.cs",
+              "RelativeToolTip": "SoulsScriblesAndSounds\\Models\\BlogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:08:51.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AddBlogController.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\AddBlogController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:24:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBlog.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:19:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T12:15:24.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\AddBlog.cshtml",
+              "ViewState": "AQIAACcAAADAmJmZmZkuwDgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:07:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogPosts.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Models\\BlogPosts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:06:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpotifyController.cs",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Controllers\\SpotifyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:07:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SoulsScriblesAndSounds.csproj",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\SoulsScriblesAndSounds.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T12:09:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListBlogs.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\ListBlogs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:07:15.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:15:05.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Pages\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:15:10.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Program.cs",
-              "RelativeDocumentMoniker": "MultilingualMusicBlogPost\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Program.cs",
               "ToolTip": "C:\\Users\\twizo\\RiderProjects\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Program.cs",
-              "RelativeToolTip": "MultilingualMusicBlogPost\\Program.cs",
+              "RelativeToolTip": "..\\MultilingualMusicBlogPost\\MultilingualMusicBlogPost\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAABYvSYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:06:09.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T12:06:09.788Z"
             }
           ]
         }
