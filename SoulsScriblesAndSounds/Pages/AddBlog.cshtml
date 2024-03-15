@@ -1,0 +1,65 @@
+﻿@page
+@model SoulsScribblesAndSounds.Pages.AddBlog.AddBlogModel
+@using SoulsScribblesAndSounds.Models
+
+
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Add Blog Post</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css"/>
+</head>
+<body>
+<div class="container">
+    <h2>Add a New Blog Post</h2>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="BlogPost.Title"></label>
+            <input asp-for="BlogPost.Title" class="form-control"/>
+            <span asp-validation-for="BlogPost.Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="BlogPost.Content"></label>
+            <textarea asp-for="BlogPost.Content" class="form-control" rows="5"></textarea>
+            <span asp-validation-for="BlogPost.Content" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="BlogPost.MusicUrl">Choose music</label>
+            <input asp-for="BlogPost.MusicUrl" class="form-control"/>
+@*             <span asp-validation-for="BlogPost.MusicUrl" class="text-danger"></span>
+ *@        </div>
+        
+       @*  <a class="btn btn-success" asp-controller="Spotify" asp-action="Login">Login with Spotify</a>
+ *@
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+    
+@*     <div class="spotify-auth-section">
+        <h2>Search Music on Spotify</h2>
+        <p>Connect your Spotify account to search for music to add to your blog post.</p>
+    
+        <a href="#" id="login-spotify-button" class="btn btn-success">Login with Spotify</a> 
+        </div>
+    
+    <div class="search-section" style="display: none;"> 
+        <input type="text" id="spotify-search" placeholder="Search for Songs..." />
+        <button id="search-spotify-button" class="btn btn-primary">Search</button>
+    
+        <div id="spotify-search-results">
+            </div> *@
+    </div>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Focus styles for buttons and form controls */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+    margin-bottom: 60px;
+    margin-left: 250px;
+    background-color: #f0f0f0;
+    color: #8d3b43;
+    font-family: Arial, sans-serif;
+
+    /* Flexbox for layout */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 250px;
+    background-color: #333; /* Darker color for the sidebar */
+}
+
+.nav-link {
+    color: #ddd;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    color: #c4c4c4;
+    position: relative;
+}
+
+.sounds-title {
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #666;
+    position: absolute;
+    bottom: 0;
+    margin-left: -0.5em;
+    padding-left: 50%;
+    z-index: -1;
+}
+
+.nav-scrollable {
+    margin-bottom: 2rem;
+}
+
+.spotify-auth-section,
+.search-section {
+    margin-bottom: 20px;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff; /* White background for main content */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header img {
+    border-radius: 50%;
+}
+
+.header-container {
+    display: flex;          /* Enable Flexbox */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;     /* Optionally center the image vertically */
+}
+
