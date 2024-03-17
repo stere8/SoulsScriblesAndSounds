@@ -108,6 +108,17 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.date {
+    text-align: end;
+    padding-right: 10%;
+}
+
+.blog-list-title {
+    text-decoration: black;
+    text-underline: none;
+    color: grey;
+}
+
 header img {
     border-radius: 50%;
 }
@@ -117,4 +128,20 @@ header img {
     justify-content: center; /* Center the image horizontally */
     align-items: center;     /* Optionally center the image vertically */
 }
+
+/* Ensure the navbar is hidden initially on small screens */
+.navbar-collapse {
+    display: none;
+}
+
+/* Style for when the navbar is shown */
+.navbar-collapse.show {
+    display: block;
+}
+@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+    .navbar {
+        display: none;
+    }
+}
+
 

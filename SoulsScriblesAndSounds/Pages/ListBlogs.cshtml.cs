@@ -15,6 +15,7 @@ namespace SoulsScribblesAndSounds.Pages.ListBlogs
 
         public IList<BlogPost> BlogPosts { get; set; } = new List<BlogPost>();
 
+
         public async Task OnGetAsync()
         {
             BlogPosts = await _db.BlogPosts.ToListAsync();

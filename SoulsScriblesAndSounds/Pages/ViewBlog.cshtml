@@ -1,0 +1,21 @@
+﻿@page
+@model SoulsScribblesAndSounds.Pages.ViewBlog.ViewBlogModel
+
+@{
+    Layout = "_Layout";
+}
+
+<html>
+<body>
+    <div class="container">
+
+        <h1 class="blog-list-title">@Model.BlogPost.Title</h1>
+        <p class="date">@Model.BlogPost.Date.ToShortDateString()</p>
+
+        <div class="blog-content">
+            @Html.Raw(Model.BlogPost.Content)
+        </div>
+    </div>
+</body>
+</html>
+

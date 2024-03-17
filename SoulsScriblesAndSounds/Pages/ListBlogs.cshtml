@@ -4,15 +4,40 @@
 @{
     Layout = "_Layout";
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"]</title>
+</head>
+<header>
+    <div class="header-container">
+        <img src="~/lib/img/SS&SLogo.png" alt="Your Blog Logo">
+    </div>
+</header>
+<main>
+<div class="container">
+    <h1>Blog Posts</h1>
 
-<h1>Blog Posts</h1>
+    <ul> 
+        @foreach (var blogPost in Model.BlogPosts) 
+        {
+            <li>
 
-<ul> 
-    @foreach (var blogPost in Model.BlogPosts) 
-    {
-        <li>
-            <h2><a asp-page="./ViewBlog" asp-route-id="@blogPost.Id">@blogPost.Title</a></h2>  
-            <p>@blogPost.Date.ToShortDateString()</p> 
-        </li>
-    }
-</ul>
+                <h2><a class="blog-list-title" asp-page="./ViewBlog" asp-route-id="@blogPost.Id">@blogPost.Title</a></h2>
+                <p class="date"><tab></tab> @blogPost.Date.ToShortDateString()</p>
+
+                <p>@Html.Raw($"{blogPost.Content[..250]}{blogPost.Content.Substring(250,blogPost.Content.Substring(250).IndexOf(" ", StringComparison.Ordinal))}...")</p>
+
+                <a asp-page="./ViewBlog" asp-route-id="@blogPost.Id">Read More</a>
+                <br/><br/>
+
+            </li>
+        }
+
+    </ul>
+    </div>
+</main>
+
+

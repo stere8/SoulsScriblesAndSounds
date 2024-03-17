@@ -7,6 +7,8 @@ namespace SoulsScribblesAndSounds.Pages.AddBlog
     public class AddBlogModel : PageModel 
     {
         private readonly BlogDbContext _context; // Replace 'BlogDbContext' with your database context class name
+        public string Description { get; set; }
+
 
         public AddBlogModel(BlogDbContext db)
         {
@@ -35,7 +37,7 @@ namespace SoulsScribblesAndSounds.Pages.AddBlog
             _context.BlogPosts.Add(blogPostToAdd);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("./ListPosts"); // Redirect to the blog posts listing page
+            return RedirectToPage("./ListBlogs"); // Redirect to the blog posts listing page
         }
     }
 }

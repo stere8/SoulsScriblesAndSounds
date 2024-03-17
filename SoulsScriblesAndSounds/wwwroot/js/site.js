@@ -21,4 +21,10 @@ window.addEventListener('DOMContentLoaded', (event) => {
     toggleSpotifyElements();
 });
 
+const menuToggle = document.getElementById('menuToggle');
+const navbarContent = document.getElementById('navbarContent');
+
+menuToggle.addEventListener('click', () => {
+    navbarContent.classList.toggle('show');
+});
 // Write your JavaScript code.
